@@ -26,4 +26,4 @@ Summary of the Specs of Commonly Used GPUs for Training and Inference of LLM
 
 ## 国产 GPUs
 
-- 摩尔线程 MTT S4000 : [MTT S4000](https://en.mthreads.com/product/S4000) 页面底部
+- 摩尔线程 MTT S4000 : [MTT S4000 DataSheet](https://en.mthreads.com/product/S4000) 页面底部
