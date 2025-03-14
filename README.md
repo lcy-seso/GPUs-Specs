@@ -14,6 +14,7 @@ Summary of the Specs of Commonly Used GPUs for Training and Inference of LLM
 - NVIDIA L20：[L20 Dataheet](https://static.mianbaoban-assets.eet-china.com/xinyu-images/MBXY-CR-1efc7def3de60793150e7d0547fa5484.png)
 - NVIDIA A100：[A100 DataSheet](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a100/pdf/nvidia-a100-datasheet-nvidia-us-2188504-web.pdf) 、[Ampere-arch-whitepaper](https://images.nvidia.com/aem-dam/en-zz/Solutions/data-center/nvidia-ampere-architecture-whitepaper.pdf)
 - NVIDIA A800：[A800 80G DataSheet](https://deepbaytech.com/images/nvidia-a800-datasheet-nvidia-a4-2521686-zhCN.pdf)
+- NVIDIA A10 ：[A10 DataSheet](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a10/pdf/a10-datasheet.pdf)
 - …
 
 ## AMD GPUs
@@ -25,4 +26,4 @@ Summary of the Specs of Commonly Used GPUs for Training and Inference of LLM
 
 ## 国产 GPUs
 
-- TODO
+- 摩尔线程 MTT S4000 : [MTT S4000](https://en.mthreads.com/product/S4000) 页面底部
