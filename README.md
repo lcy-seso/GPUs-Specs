@@ -16,6 +16,7 @@ Summary of the Specs of Commonly Used GPUs for Training and Inference of LLM
 - NVIDIA A800：[A800 80G DataSheet](https://deepbaytech.com/images/nvidia-a800-datasheet-nvidia-a4-2521686-zhCN.pdf)、[A800 40G DataSheet](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/a800/proviz-a800-40gb-datasheet-nvidia-2819988-r5-web.pdf)
 - NVIDIA A10 ：[A10 DataSheet](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a10/pdf/a10-datasheet.pdf)
 - NVIDIA A40 ：[A40 DataSheet](https://images.nvidia.cn/content/Solutions/data-center/a40/nvidia-a40-datasheet.pdf)、[A40 Product Brief](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a40/NVIDIA%20A40%20Product%20Brief.pdf)
+- NVIDIA T4 ：[T4 Tensor Core Datasheet](https://resources.nvidia.com/en-us-t4/t4-tensor-core-data-sheet?lb-mode=overlay&lb-width=100&lb-height=100)、[T4 Product Brief](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-t4/t4-tensor-core-product-brief.pdf)、[NVIDIA TURING GPU Arch](https://images.nvidia.cn/aem-dam/Solutions/design-visualization/technologies/turing-architecture/NVIDIA-Turing-Architecture-Whitepaper.pdf?ncid=no-ncid)
 - NVIDIA V100: [V100 DataSheet](https://images.nvidia.com/content/technologies/volta/pdf/volta-v100-datasheet-update-us-1165301-r5.pdf)、[Volta-arch-whitepaper](https://images.nvidia.com/content/volta-architecture/pdf/volta-architecture-whitepaper.pdf)
 - …
 
