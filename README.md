@@ -34,3 +34,4 @@ Summary of the Specs of Commonly Used GPUs for Training and Inference of LLM
 ## 国产 GPUs
 
 - 摩尔线程 MTT S4000 : [MTT S4000 DataSheet](https://en.mthreads.com/product/S4000) 页面底部
+- 华为、昆仑芯、天数智芯、燧原等国产AI加速卡参考知乎[@黄世青](https://www.zhihu.com/people/huang-shi-qing-50/posts)提供: [国产AI加速卡性能数据](https://docs.qq.com/sheet/DVkZQTGlaY2lreXlQ?tab=BB08J2)
