@@ -13,8 +13,10 @@ Summary of the Specs of Commonly Used GPUs for Training and Inference of LLM
 - NVIDIA L40s：[L40s DataSheet](https://resources.nvidia.com/en-us-l40s/l40s-datasheet-28413)
 - NVIDIA L20：[L20 Dataheet](https://static.mianbaoban-assets.eet-china.com/xinyu-images/MBXY-CR-1efc7def3de60793150e7d0547fa5484.png)
 - NVIDIA A100：[A100 DataSheet](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a100/pdf/nvidia-a100-datasheet-nvidia-us-2188504-web.pdf) 、[Ampere-arch-whitepaper](https://images.nvidia.com/aem-dam/en-zz/Solutions/data-center/nvidia-ampere-architecture-whitepaper.pdf)
-- NVIDIA A800：[A800 80G DataSheet](https://deepbaytech.com/images/nvidia-a800-datasheet-nvidia-a4-2521686-zhCN.pdf)
+- NVIDIA A800：[A800 80G DataSheet](https://deepbaytech.com/images/nvidia-a800-datasheet-nvidia-a4-2521686-zhCN.pdf)、[A800 40G DataSheet](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/a800/proviz-a800-40gb-datasheet-nvidia-2819988-r5-web.pdf)
 - NVIDIA A10 ：[A10 DataSheet](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a10/pdf/a10-datasheet.pdf)
+- NVIDIA A40 ：[A40 DataSheet](https://images.nvidia.cn/content/Solutions/data-center/a40/nvidia-a40-datasheet.pdf)、[A40 Product Brief](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a40/NVIDIA%20A40%20Product%20Brief.pdf)
+- NVIDIA V100: [V100 DataSheet](https://images.nvidia.com/content/technologies/volta/pdf/volta-v100-datasheet-update-us-1165301-r5.pdf)、[Volta-arch-whitepaper](https://images.nvidia.com/content/volta-architecture/pdf/volta-architecture-whitepaper.pdf)
 - …
 
 ## AMD GPUs
